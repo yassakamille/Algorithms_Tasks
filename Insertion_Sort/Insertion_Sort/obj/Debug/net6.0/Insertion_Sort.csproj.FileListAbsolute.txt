@@ -1,0 +1,15 @@
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\bin\Debug\net6.0\Insertion_Sort.exe
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\bin\Debug\net6.0\Insertion_Sort.deps.json
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\bin\Debug\net6.0\Insertion_Sort.runtimeconfig.json
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\bin\Debug\net6.0\Insertion_Sort.dll
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\bin\Debug\net6.0\Insertion_Sort.pdb
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\Insertion_Sort.csproj.AssemblyReference.cache
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\Insertion_Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\Insertion_Sort.AssemblyInfoInputs.cache
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\Insertion_Sort.AssemblyInfo.cs
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\Insertion_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\Insertion_Sort.dll
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\refint\Insertion_Sort.dll
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\Insertion_Sort.pdb
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\Insertion_Sort.genruntimeconfig.cache
+C:\Users\Byte Store\source\repos\Insertion_Sort\Insertion_Sort\obj\Debug\net6.0\ref\Insertion_Sort.dll
