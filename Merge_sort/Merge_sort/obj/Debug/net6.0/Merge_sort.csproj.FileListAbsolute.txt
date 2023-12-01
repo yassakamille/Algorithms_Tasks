@@ -1,0 +1,15 @@
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\bin\Debug\net6.0\Merge_sort.exe
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\bin\Debug\net6.0\Merge_sort.deps.json
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\bin\Debug\net6.0\Merge_sort.runtimeconfig.json
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\bin\Debug\net6.0\Merge_sort.dll
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\bin\Debug\net6.0\Merge_sort.pdb
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\Merge_sort.csproj.AssemblyReference.cache
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\Merge_sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\Merge_sort.AssemblyInfoInputs.cache
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\Merge_sort.AssemblyInfo.cs
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\Merge_sort.csproj.CoreCompileInputs.cache
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\Merge_sort.dll
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\refint\Merge_sort.dll
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\Merge_sort.pdb
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\Merge_sort.genruntimeconfig.cache
+C:\Users\Byte Store\source\repos\Merge_sort\Merge_sort\obj\Debug\net6.0\ref\Merge_sort.dll

@@ -1,0 +1,15 @@
+C:\Users\Byte Store\source\repos\Powering\Powering\bin\Debug\net6.0\Powering.exe
+C:\Users\Byte Store\source\repos\Powering\Powering\bin\Debug\net6.0\Powering.deps.json
+C:\Users\Byte Store\source\repos\Powering\Powering\bin\Debug\net6.0\Powering.runtimeconfig.json
+C:\Users\Byte Store\source\repos\Powering\Powering\bin\Debug\net6.0\Powering.dll
+C:\Users\Byte Store\source\repos\Powering\Powering\bin\Debug\net6.0\Powering.pdb
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\Powering.csproj.AssemblyReference.cache
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\Powering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\Powering.AssemblyInfoInputs.cache
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\Powering.AssemblyInfo.cs
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\Powering.csproj.CoreCompileInputs.cache
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\Powering.dll
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\refint\Powering.dll
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\Powering.pdb
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\Powering.genruntimeconfig.cache
+C:\Users\Byte Store\source\repos\Powering\Powering\obj\Debug\net6.0\ref\Powering.dll
